@@ -1,0 +1,44 @@
+<html>
+    <body>
+        <h5>LETTER</h5>
+        <P>
+            132, Niyogi Bhavan,<br> Ambazari, <br> Nagpur,440015 <br> June 04,2021
+        </P>
+        <p>
+            To <br> Prof. Tekade, <br> GHRCE, <br> Nagpur, 441110
+        </p>
+        <p>
+           <b>Subject:</b> Regarding permission for attending a <i>Code Camp</i>
+        </p>
+        <p>
+            Respected Sir,<br> I am Disha Thaokar, a student currently studying in 2<sup>nd</sup> year IT Department. 
+            There is a mentorship program conducted by 'Devsnest' to help us get our dream job. 
+            Their main motive is to guide students to become a good developer.
+            This program is of 40 days which is going to be held in Delhi. 
+        <p>This program will also focus on programming languages like - </p>
+        <ul>
+            <li>Python</li>
+            <li> C</li>
+            <li> C++ etc</li>
+        </ul>
+        Each phase is going to be covered in a span of 20 days. The program consists of 3 phases:
+        </p>
+        <table>
+        <tr>
+            <th>Phase 1</th>
+            <th>Phase 2</th>
+            <th>Phase 3</th>
+        </tr>
+        <tr>
+            <td>DSA</td>
+            <td>Front-end Development</td>
+            <td>Back-end Development</td>
+        </tr>
+        </table>
+        <p> Being in It field, this program will really help me to improve my skills and boost up my confidence.
+             So, It's my humble request to you to let me join this program and I promise after returning back I will cover all my backlogs.
+        </p>
+        <p> Thanking You.</p>
+        <p>Yours Faithfully,<br> Disha Thaokar. </p>
+    </body>
+</html>
