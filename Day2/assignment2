@@ -1,6 +1,6 @@
 <style>
     h5{
-        font-size: 24px;
+        font-size: 20px;
         text-align: center;
         background-color:seashell;
         color:rebeccapurple;
@@ -18,10 +18,8 @@
 
     </style>
     <body>
-        <h5>LETTER</h5>
-        <P>
+        <h5>LETTER</h5><br>
             132, Niyogi Bhavan,<br> Ambazari, <br> Nagpur,440015 <br> <strong>June 04,2021</strong>
-        </P>
         <p>
             To <br> Prof. Tekade, <br> GHRCE, <br> Nagur, 441110
         </p>
@@ -32,8 +30,7 @@
             Respected Sir,<br> I am Disha Thaokar, a student currently studying in 2<sup>nd</sup> year IT Department. 
             There is a mentorship program conducted by <b>'Devsnest'</b> to help us get our dream job. 
             Their main motive is to guide students to become a good developer.
-            This program is of 40 days which is going to be held in Delhi. 
-        <p>This program will also focus on programming languages like - </p>
+            This program is of 40 days which is going to be held in Delhi.This program will also focus on programming languages like - </p>
         <ul>
             <li>Python</li>
             <li> C</li>
